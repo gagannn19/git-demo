@@ -1,2 +1,3 @@
 # git-demo
 I am learning git...
+Author - Gagan 
